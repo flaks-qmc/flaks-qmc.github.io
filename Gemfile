@@ -1,1 +1,4 @@
-gem 'tufte-pandoc-jekyll'
+source 'https://rubygems.org'
+
+gem 'jekyll'
+gem 'rouge'
